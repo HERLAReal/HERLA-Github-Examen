@@ -5,4 +5,4 @@ Dit is mijn examenrepository voor het vak Webdesign
 ## Over mij
 - **Naam:** HERLA
 - **Klas:** 6ADB
-- **Schooljaar:** 2024-2025
+- **Schooljaar:** 2025-2026
